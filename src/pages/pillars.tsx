@@ -25,7 +25,7 @@ export default function Home() {
         <figure>
           <figcaption>Using path</figcaption>
           <Image
-            src="/andy-base-path/pillars-of-creation.png"
+            src="/pillars-of-creation.png"
             alt="The pillars of creation"
             height={300}
             width={900}
